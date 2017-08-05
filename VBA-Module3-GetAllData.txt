@@ -1,0 +1,11 @@
+Sub GetAllData()
+
+'Application.DisplayAlerts = False
+
+Sheets("conus").Select
+Call GetDataCONUS
+
+Sheets("bering").Select
+Call GetDataBERING
+
+End Sub
