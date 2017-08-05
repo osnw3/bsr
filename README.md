@@ -6,5 +6,5 @@ I have broken down the current model to a bare necessity engine.
 I envision many improvements to this base engine. 
 I anticipate collaboration with other enthusiasts of the BSR who also enjoy programming.
 
-(Bering Sea Rule was founded by Joe Renken)
+(More info on the Bering Sea Rule)
 https://www.google.com/search?q=Bering+Sea+Rule
